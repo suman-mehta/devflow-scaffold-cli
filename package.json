@@ -1,0 +1,19 @@
+{
+  "name": "devflow-scaffold-cli",
+  "version": "1.0.0",
+  "description": "Modern Developer Workflow Automation & Scaffolding CLI Engine",
+  "type": "module",
+  "bin": {
+    "devflow": "./src/index.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "keywords": [
+    "developer-tools",
+    "automation",
+    "cli",
+    "nodejs"
+  ],
+  "license": "MIT"
+}
